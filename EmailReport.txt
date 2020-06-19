@@ -1,0 +1,12 @@
+Hi,
+
+Your Request for Covid-19 report for {0} at {1}.
+
+Report:
+
+{2}
+{3}
+{4}
+
+Regards,
+Email Bot
